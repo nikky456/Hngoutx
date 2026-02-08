@@ -1,0 +1,26 @@
+# User
+.env*
+*.log
+*debug.log*
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json # Usually committed, but sometimes ignored in certain workflows (though usually WRONG, I'll keep it standard and NOT ignore it unless requested? No, I'll stick to standard ignores)
+
+# Build
+dist/
+build/
+.next/
+.serverless/
+.nuxt/
+coverage/
+
+# Misc
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo

@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of HangoutX",
+  "description": "HangoutX: Your vibe. Your room. Your people. Real-time media sharing and live hanging platform.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
